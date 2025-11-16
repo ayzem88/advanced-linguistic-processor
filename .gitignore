@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache and logs
+cache/
+logs/
+*.log
+*.pkl
+
+# Data files (large)
+*.db
+*.sqlite
+*.sqlite3
+
+# Config (may contain sensitive data)
+config.json
+
+# Test cache
+test_cache/
+
+# Output files
+output/
+*.xlsx
+*.csv
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+

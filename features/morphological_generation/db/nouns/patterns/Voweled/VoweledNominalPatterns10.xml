@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1256" ?>
+<patterns>
+		<pattern id="537" diac="اسْتِفعالَتانِ" type="صر" cas="نك" ncg="4"/>
+		<pattern id="540" diac="اسْتِفعالَتَيْنِ" type="صر" cas="نك" ncg="10"/>
+		<pattern id="541" diac="اسْتِفعالَتَيْنِ" type="صر" cas="نك" ncg="16"/>
+		<pattern id="569" diac="اسْتِفْعاءَتانِ" type="صر" cas="نك" ncg="4"/>
+		<pattern id="572" diac="اسْتِفْعاءَتَيْنِ" type="صر" cas="نك" ncg="10"/>
+		<pattern id="573" diac="اسْتِفْعاءَتَيْنِ" type="صر" cas="نك" ncg="16"/>
+		<pattern id="603" diac="اسْتِفْعالَتانِ" type="صر" cas="نك" ncg="4"/>
+		<pattern id="606" diac="اسْتِفْعالَتَيْنِ" type="صر" cas="نك" ncg="10"/>
+		<pattern id="607" diac="اسْتِفْعالَتَيْنِ" type="صر" cas="نك" ncg="16"/>
+		<pattern id="643" diac="اسْتِيعالَتانِ" type="صر" cas="نك" ncg="4"/>
+		<pattern id="646" diac="اسْتِيعالَتَيْنِ" type="صر" cas="نك" ncg="10"/>
+		<pattern id="647" diac="اسْتِيعالَتَيْنِ" type="صر" cas="نك" ncg="16"/>
+		<pattern id="878" diac="افْعِنْلالَتانِ" type="صر" cas="نك" ncg="4"/>
+		<pattern id="881" diac="افْعِنْلالَتَيْنِ" type="صر" cas="نك" ncg="10"/>
+		<pattern id="882" diac="افْعِنْلالَتَيْنِ" type="صر" cas="نك" ncg="16"/></patterns>

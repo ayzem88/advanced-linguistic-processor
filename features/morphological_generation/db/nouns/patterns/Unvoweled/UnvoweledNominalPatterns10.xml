@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1256" ?>
+<patterns>
+		<pattern value="استفعاءتان" rule="45و"/>
+		<pattern value="استفعاءتان" rule="45ي"/>
+		<pattern value="استفعاءتين" rule="45و"/>
+		<pattern value="استفعالتان" rule="457"/>
+		<pattern value="استفعالتين" rule="457"/>
+		<pattern value="استيعالتان" rule="و57"/>
+		<pattern value="استيعالتين" rule="و57"/>
+		<pattern value="افعنلالتان" rule="2357"/>
+		<pattern value="افعنلالتين" rule="2357"/></patterns>

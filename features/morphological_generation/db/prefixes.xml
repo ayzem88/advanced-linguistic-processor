@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefixes>
+    <prefixe unvoweledform="ال" voweledform="الْ" classe="D1"/>
+    <prefixe unvoweledform="و" voweledform="وَ" classe="C1"/>
+    <prefixe unvoweledform="ف" voweledform="فَ" classe="C1"/>
+    <prefixe unvoweledform="ب" voweledform="بِ" classe="C1"/>
+    <prefixe unvoweledform="ك" voweledform="كِ" classe="C1"/>
+    <prefixe unvoweledform="ل" voweledform="لِ" classe="C1"/>
+    <prefixe unvoweledform="س" voweledform="سَ" classe="C1"/>
+    <prefixe unvoweledform="" voweledform="" classe=""/>
+</prefixes>

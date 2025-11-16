@@ -1,0 +1,64 @@
+# متطلبات المختار اللغوي الجديد - النسخة المحسنة
+# Requirements for Advanced Arabic Linguistic Processor - Enhanced Version
+
+# الواجهة الرسومية
+# Graphical User Interface
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+
+# معالجة البيانات والتحليل
+# Data Processing and Analysis
+pandas>=1.4.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# معالجة اللغات الطبيعية
+# Natural Language Processing
+nltk>=3.7
+gensim>=4.2.0
+
+# التصور البصري
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.11.0
+wordcloud>=1.8.0
+
+# معالجة النصوص العربية
+# Arabic Text Processing
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+qalsadi>=0.4.0
+tashaphyne>=0.3.0
+
+# أدوات التطوير والاختبار
+# Development and Testing Tools
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-qt>=4.0.0
+
+# تحليل الكود
+# Code Analysis
+pylint>=2.15.0
+flake8>=5.0.0
+mypy>=1.0.0
+
+# مراقبة الأداء
+# Performance Monitoring
+psutil>=5.9.0
+memory-profiler>=0.60.0
+
+# أدوات إضافية
+# Additional Tools
+tqdm>=4.64.0
+colorama>=0.4.5
+rich>=12.0.0
+
+# أدوات التوثيق
+# Documentation Tools
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# أدوات الأمان
+# Security Tools
+cryptography>=3.4.8

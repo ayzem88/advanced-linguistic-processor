@@ -1,0 +1,12 @@
+هذا نص تجريبي لاختبار المعالج اللغوي. البرنامج يقوم بتحليل النصوص العربية والإنجليزية بكفاءة عالية.
+
+اللغة العربية من أجمل اللغات في العالم. تحليل النصوص العربية يتطلب أدوات متخصصة. البرنامج يوفر إحصائيات دقيقة عن النص.
+
+يمكن للبرنامج حساب تكرار الكلمات، وتحليل التلازمات اللفظية، ومقارنة النصوص المختلفة. هذه الميزات تجعل البرنامج أداة قوية للباحثين والطلاب.
+
+التحليل اللغوي يساعد في فهم البنية اللغوية للنصوص. الإحصائيات اللغوية توفر معلومات قيمة عن استخدام اللغة. البرنامج يدعم تصدير النتائج بصيغ متعددة.
+
+Natural language processing is an important field in computer science. Text analysis helps researchers understand language patterns. The program provides comprehensive statistics about text data.
+
+The software supports multiple languages and can analyze various text formats. Users can compare different texts and extract meaningful insights from the analysis results.
+

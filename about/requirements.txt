@@ -1,0 +1,15 @@
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+matplotlib>=3.7.0
+seaborn>=0.11.0
+wordcloud>=1.8.0
+nltk>=3.7
+gensim>=4.2.0
+scikit-learn>=1.1.0
+pandas>=1.4.0
+numpy>=1.21.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+qalsadi>=0.4.0
+tashaphyne>=0.3.0

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolwords>
+    <toolword unvoweledform="في" voweledform="فِي" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="من" voweledform="مِنْ" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="إلى" voweledform="إِلَى" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="على" voweledform="عَلَى" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="عن" voweledform="عَنْ" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="مع" voweledform="مَعَ" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="بعد" voweledform="بَعْدَ" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="قبل" voweledform="قَبْلَ" type="حرف جر" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="هذا" voweledform="هَذَا" type="اسم إشارة" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="هذه" voweledform="هَذِهِ" type="اسم إشارة" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="ذلك" voweledform="ذَلِكَ" type="اسم إشارة" prefixeclass="" suffixeclass=""/>
+    <toolword unvoweledform="تلك" voweledform="تِلْكَ" type="اسم إشارة" prefixeclass="" suffixeclass=""/>
+</toolwords>

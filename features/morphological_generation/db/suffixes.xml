@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suffixes>
+    <suffixe unvoweledform="ون" voweledform="ونَ" classe="C2"/>
+    <suffixe unvoweledform="ين" voweledform="ينَ" classe="C2"/>
+    <suffixe unvoweledform="ات" voweledform="اتٌ" classe="C2"/>
+    <suffixe unvoweledform="ه" voweledform="هُ" classe="C2"/>
+    <suffixe unvoweledform="ها" voweledform="هَا" classe="C2"/>
+    <suffixe unvoweledform="هم" voweledform="هُمْ" classe="C2"/>
+    <suffixe unvoweledform="هن" voweledform="هُنَّ" classe="C2"/>
+    <suffixe unvoweledform="ي" voweledform="ي" classe="C2"/>
+    <suffixe unvoweledform="ك" voweledform="كَ" classe="C2"/>
+    <suffixe unvoweledform="كم" voweledform="كُمْ" classe="C2"/>
+    <suffixe unvoweledform="كن" voweledform="كُنَّ" classe="C2"/>
+    <suffixe unvoweledform="نا" voweledform="نَا" classe="C2"/>
+    <suffixe unvoweledform="" voweledform="" classe=""/>
+</suffixes>

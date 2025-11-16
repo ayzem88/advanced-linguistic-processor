@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1256" ?>
+<patterns>
+		<pattern value="عل" rule="ء12"/>
+		<pattern value="عل" rule="و12"/>
+		<pattern value="فع" rule="122"/>
+		<pattern value="فع" rule="12و"/>
+		<pattern value="فع" rule="12ي"/>
+		<pattern value="فل" rule="1و2"/>
+		<pattern value="فل" rule="1ي2"/></patterns>
