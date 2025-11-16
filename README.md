@@ -52,6 +52,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## لقطات الشاشة
+
+![صورة 1](01.png)
+![صورة 2](02.png)
+![صورة 3](03.png)
+
 ## الاستخدام
 
 ### الخدمات الأساسية
@@ -224,6 +230,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## Screenshots
+
+![Screenshot 1](01.png)
+![Screenshot 2](02.png)
+![Screenshot 3](03.png)
 
 ## Usage
 
